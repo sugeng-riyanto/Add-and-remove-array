@@ -52,14 +52,18 @@ graphql
 
 Copy code
 
-`PenguinManager/
+```
+PenguinManager/
 ├── src/                    # Contains the Java source code
 │   ├── Main.java           # Main class with program logic
 │   ├── Penguin.java        # Penguin class with attributes and methods
 ├── .idea/                  # IntelliJ IDEA project files (auto-generated)
 ├── README.md               # Project documentation (this file)
 ├── .gitignore              # Files to ignore in version control
-└── out/                    # Compiled files (auto-generated during compilation)` 
+└── out/                    # Compiled files (auto-generated during compilation)
+
+
+```
 
 ----------
 
