@@ -38,9 +38,7 @@ To get the project files, open a terminal and run:
 bash
 
 Copy code
-
-`git clone https://github.com/your-username/penguin-manager-java.git
-cd penguin-manager-java` 
+`https://github.com/sugeng-riyanto/Add-and-remove-array.git cd penguin-manager-java`
 
 ----------
 
